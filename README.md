@@ -1,1 +1,1 @@
-# meeting
+# sgi-collaboration-meeting
